@@ -597,10 +597,8 @@
 	Responsive
 ---------------------------------------------------*/	
 
-/*@media only screen and (max-width: 2466px) {
+@media only screen and (max-width: 1466px) {
 	
-
-
 	#filters-overlay .outer {
 		padding: 50px;
 	}
@@ -609,15 +607,6 @@
 		box-sizing: border-box;
 		padding: 0 30px;
 	}
-
-	#show-filters {
-		margin: 0 100px;
-		margin-top:20px;
-		text-align: center;
-		display: table;
-		visibility:visible;
-	}
-
 	
 	.item:nth-child(1) .item-appear, .item:nth-child(2) .item-appear {
 		opacity: 1;
@@ -634,21 +623,13 @@
 
 @media only screen and (max-width: 1320px) {	
 	
-		#show-filters {
-		margin: 0 200px;
-		margin-top:20px;
-		text-align: center;
-		display: table;
-		visibility:visible;
-	}
-
 	.item {
 		height: 28vw;
 	}
 	
-}*/
+}
 
-@media only screen and (max-width: 5600px) {	
+@media only screen and (max-width: 1024px) {	
 	
 	#show-filters {
 		margin: 0 40px;
