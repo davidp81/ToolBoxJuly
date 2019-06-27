@@ -214,7 +214,7 @@ Function First Load
 		$("html,body").animate({scrollTop: 0}, 1);
 		
 		if ($("#page-content").hasClass("light-content")) {
-			$("main, nav").css('background-color', '#102B4E');
+			$("main, nav").css('background-color', '#141414');
 			$('#magic-cursor').addClass('light-content');
 			if( $('#hero').length > 0 ){						
 				if( $('#hero').hasClass("has-image")) {	
